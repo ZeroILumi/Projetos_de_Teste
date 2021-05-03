@@ -6,5 +6,5 @@
 
 - ### _Zerando jogos a partir de algoritmos em pseudocódigo_ :video_game:
 
-- ### _Fluxogramas_123 :page_facing_up:
+- ### _Fluxogramas_ :page_facing_up:
 
