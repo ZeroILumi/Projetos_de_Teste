@@ -3,9 +3,9 @@ programa
 	
 	funcao inicio()
 	{
-	mediaaritmetica()		
+	mediaaritmeticafuncional()		
 	}
-		funcao mediaaritmetica()
+		funcao mediaaritmeticafuncional()
 		{
 		real nota1, nota2 ,nota3 ,nota4 , mediaaritmetica	
 		cadeia aluno
