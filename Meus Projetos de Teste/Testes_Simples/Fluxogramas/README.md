@@ -14,3 +14,7 @@
 
 - ### _Verificando Media_
 
+- ### _Concatenação de nome e sobrenome_
+
+- ### _Calculo da Media com 12 notas,Verificação da mesma e sua exibição na interface._
+
