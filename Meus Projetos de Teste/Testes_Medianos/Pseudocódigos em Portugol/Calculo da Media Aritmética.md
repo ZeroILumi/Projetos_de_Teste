@@ -20,15 +20,14 @@ programa
 		escreva("Digite a 4 quarta nota do aluno entitulado como "+aluno+":")
 		leia(nota4)
 		mediaaritmetica = (nota1+nota2+nota3+nota4)/4
-			se(mediaaritmetica>=7)
-			{
 			escreva("A media do aluno entitulado como "+aluno+" é: "+mediaaritmetica+"  ")
-			escreva(aluno+" foi aprovado ")
+			se(mediaaritmetica>=7)
+			{	
+			escreva("\n"+aluno+" foi aprovado ")
 			}
 				senao 
 				{
-			 	escreva("A media do aluno entitulado como "+aluno+" é: "+mediaaritmetica+"  ")
-				escreva(aluno+" foi reprovado ")
+				escreva("\n"+aluno+" foi reprovado ")
 				}
 		}
 }
