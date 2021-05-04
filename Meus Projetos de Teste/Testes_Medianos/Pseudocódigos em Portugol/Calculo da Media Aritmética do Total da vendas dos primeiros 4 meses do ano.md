@@ -1,6 +1,10 @@
+//Função deste algoritmo: calcular a média aritmética do total das vendas do primeiros 4 meses do ano
+//Autor: Aquiles Mauro (Zero ILumi)
+
 programa
 {
 	
+
 	funcao inicio()
 	{
 	MediaAritmeticadasvendas()

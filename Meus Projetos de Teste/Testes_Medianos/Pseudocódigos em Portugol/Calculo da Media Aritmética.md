@@ -1,6 +1,10 @@
+//Função deste algoritmo: calcular a média aritmética 
+//Autor: Aquiles Mauro (Zero ILumi)
+
 programa
 {
 	
+
 	funcao inicio()
 	{
 	mediaaritmeticafuncional()		
