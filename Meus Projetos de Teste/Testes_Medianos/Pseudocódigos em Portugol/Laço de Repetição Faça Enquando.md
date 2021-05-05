@@ -1,9 +1,10 @@
-//Função deste algoritmo: calcular a média aritmética do total das vendas do primeiros 4 meses do ano
+//Função deste algoritmo: através do do while, permitir ao usuário escolher qual tabuada ele que o multiplicador máximo
 //Autor: Aquiles Mauro (Zero ILumi)
 
 programa
 {
 	
+
 	funcao inicio()
 	{
 	 inteiro contador, limite, resultado, qualtabuada

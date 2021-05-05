@@ -1,4 +1,4 @@
-//Função deste algoritmo: calcular a média aritmética do total das vendas do primeiros 4 meses do ano
+//Função deste algoritmo: Escolher entre 4 opções com o if
 //Autor: Aquiles Mauro (Zero ILumi)
 
 programa
@@ -10,21 +10,21 @@ programa
 	inteiro menu = 0
 	escreva("\n"+"Qual opção você quer:")
 	leia(menu)
-     	se(menu==1)
-     	{
-     	escreva("\n"+"Abrindo Netflix")
-     	}
-     		se(menu==2)
-     		{
-     		escreva("\n"+"Abrindo Amazon Prime Video")	
-     		}
-     			se(menu==3)
-     			{
-     			escreva("\n"+"Abrindo HBO GO")
-     			}
-     				se(menu==4)
-     				{
-     				escreva("\n"+"Saindo do menu")
-     				}	
+	 	se(menu==1)
+	 	{
+	 	escreva("\n"+"Abrindo Netflix")
+	 	}
+	 		se(menu==2)
+	 		{
+	 		escreva("\n"+"Abrindo Amazon Prime Video")	
+	 		}
+	 			se(menu==3)
+	 			{
+	 			escreva("\n"+"Abrindo HBO GO")
+	 			}
+	 				se(menu==4)
+	 				{
+	 				escreva("\n"+"Saindo do menu")
+	 				}	
 	}
 }
