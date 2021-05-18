@@ -36,28 +36,28 @@ namespace Revisão
                         {
                             if(!string.IsNullOrEmpty(a.Nome))
                             {
-                                Conceito conceitoGeral2;
+                                Conceito conceitoIndividual;
                                 if(a.Nota < 2)
                                 {
-                                    conceitoGeral2 = Conceito.F;
+                                    conceitoIndividual = Conceito.F;
                                 }
                                 else if(a.Nota < 4)
                                 {
-                                    conceitoGeral2 = Conceito.E;
+                                    conceitoIndividual = Conceito.E;
                                 }
                                 else if(a.Nota < 6)
                                 {
-                                    conceitoGeral2 = Conceito.C;
+                                    conceitoIndividual = Conceito.C;
                                 }
                                 else if(a.Nota < 8)
                                 {
-                                    conceitoGeral2 = Conceito.B;
+                                    conceitoIndividual = Conceito.B;
                                 }
                                 else
                                 {
-                                    conceitoGeral2 = Conceito.A;
+                                    conceitoIndividual = Conceito.A;
                                 }    
-                                Console.WriteLine($"Aluno: {a.Nome} Nota: {a.Nota} Conceito: {conceitoGeral2}");
+                                Console.WriteLine($"Aluno: {a.Nome} Nota: {a.Nota} Conceito: {conceitoIndividual}");
                                 Console.WriteLine();
                             }
                         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Revisão_Atualizado_por_ZeroILumi\\Revisão.csproj",
+      "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\Git\\Meus Projetos de Teste\\Testes_Complexos\\Projetos em C#\\Revisão_Atualizado_por_ZeroILumi\\Revisão.csproj",
       "projectName": "Revisão",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Revisão_Atualizado_por_ZeroILumi\\Revisão.csproj",
+      "projectPath": "c:\\Users\\Usuario\\Desktop\\Git\\Meus Projetos de Teste\\Testes_Complexos\\Projetos em C#\\Revisão_Atualizado_por_ZeroILumi\\Revisão.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Revisão_Atualizado_por_ZeroILumi\\obj\\",
+      "outputPath": "c:\\Users\\Usuario\\Desktop\\Git\\Meus Projetos de Teste\\Testes_Complexos\\Projetos em C#\\Revisão_Atualizado_por_ZeroILumi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
