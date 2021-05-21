@@ -51,10 +51,12 @@ namespace Classes_e_Objetos
                                 IndexProduto++;
                             }
                         }
+                        if(produto0.Nome == "vasio")
+                        {
                             Console.WriteLine("Informe o Codigo do Produto a ser Inserido");
-                            if(int.TryParse(Console.ReadLine(), out int numerodoCodigodoProduto))
+                            if(int.TryParse(Console.ReadLine(), out int numerodoCodigodoProduto0))
                             {
-                                produto0.Codigo = numerodoCodigodoProduto;
+                                produto0.Codigo = numerodoCodigodoProduto0;
                             }
                             else
                             {   
@@ -63,17 +65,22 @@ namespace Classes_e_Objetos
                             Console.WriteLine("Informe o Nome do Produto a ser Inserido");
                             produto0.Nome = Console.ReadLine();
                             Console.WriteLine("Informe o Preço do Produto a ser Inserido");
-                            if(decimal.TryParse(Console.ReadLine(), out decimal precodoProduto))
+                            if(decimal.TryParse(Console.ReadLine(), out decimal precodoProduto0))
                             {
-                                produto0.Preco = precodoProduto;
+                                produto0.Preco = precodoProduto0;
                             }
                             else
                             {
                              throw new ArgumentException("Informe um valor Decimal");
                             }
+                        }
+                            if(produto0.Nome != "vasio" & produto1.Nome != "vasio" & produto2.Nome != "vasio" & produto3.Nome != "vasio" & produto4.Nome != "vasio");
+                            {
+                                Console.WriteLine("Não e Possivel adicionar mais produtos pois o carinho de compras ja esta cheio");
+                                break;
+                            }
                             string querInserirOutroProduto = InserirOutroProduto();
-
-                            if(querInserirOutroProduto == "S")
+                            if(querInserirOutroProduto == "S" & produto1.Nome == "vasio")
                             {
                                 Console.WriteLine("Informe o Codigo do Produto a ser Inserido");
                                 if(int.TryParse(Console.ReadLine(), out int numerodoCodigodoProduto1))
@@ -96,8 +103,12 @@ namespace Classes_e_Objetos
                                 throw new ArgumentException("Informe um valor Decimal");
                                 }
                             }
+                            else
+                            {
+                                break;
+                            }
                             querInserirOutroProduto = InserirOutroProduto();
-                            if(querInserirOutroProduto == "S")
+                            if(querInserirOutroProduto == "S" & produto2.Nome == "vasio")
                             {
                                 Console.WriteLine("Informe o Codigo do Produto a ser Inserido");
                                 if(int.TryParse(Console.ReadLine(), out int numerodoCodigodoProduto2))
@@ -120,8 +131,12 @@ namespace Classes_e_Objetos
                                     throw new ArgumentException("Informe um valor Decimal");
                                 }
                             }
+                            else
+                            {
+                                break;
+                            }
                             querInserirOutroProduto = InserirOutroProduto();
-                            if(querInserirOutroProduto == "S")
+                            if(querInserirOutroProduto == "S" & produto3.Nome == "vasio")
                             {
                                 Console.WriteLine("Informe o Codigo do Produto a ser Inserido");
                                 if(int.TryParse(Console.ReadLine(), out int numerodoCodigodoProduto3))
@@ -137,15 +152,19 @@ namespace Classes_e_Objetos
                                 Console.WriteLine("Informe o Preço do Produto a ser Inserido");
                                 if(decimal.TryParse(Console.ReadLine(), out decimal precodoProduto3))
                                 {
-                                    produto3.Preco = precodoProduto;
+                                    produto3.Preco = precodoProduto3;
                                 }
                                 else
                                 {
                                     throw new ArgumentException("Informe um valor Decimal");
                                 }
                             }
+                            else
+                            {
+                                break;
+                            }
                             querInserirOutroProduto = InserirOutroProduto();
-                            if(querInserirOutroProduto == "S")
+                            if(querInserirOutroProduto == "S" & produto4.Nome == "vasio")
                             {
                                 Console.WriteLine("Informe o Codigo do Produto a ser Inserido");
                                 if(int.TryParse(Console.ReadLine(), out int numerodoCodigodoProduto4))
@@ -161,7 +180,7 @@ namespace Classes_e_Objetos
                                 Console.WriteLine("Informe o Preço do Produto a ser Inserido");
                                 if(decimal.TryParse(Console.ReadLine(), out decimal precodoProduto4))
                                 {
-                                    produto4.Preco = precodoProduto;
+                                    produto4.Preco = precodoProduto4;
                                 }
                                 else
                                 {

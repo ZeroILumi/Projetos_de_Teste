@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi\\Classes e Objetos.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\\Classes e Objetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi\\Classes e Objetos.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\\Classes e Objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi\\Classes e Objetos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\\Classes e Objetos.csproj",
         "projectName": "Classes e Objetos",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi\\Classes e Objetos.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\\Classes e Objetos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Trabalho\\Projetos C#\\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
