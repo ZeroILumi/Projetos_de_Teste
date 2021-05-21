@@ -74,7 +74,7 @@ namespace Classes_e_Objetos
                              throw new ArgumentException("Informe um valor Decimal");
                             }
                         }
-                            if(produto0.Nome != "vasio" & produto1.Nome != "vasio" & produto2.Nome != "vasio" & produto3.Nome != "vasio" & produto4.Nome != "vasio");
+                            if(produto0.Nome != "vasio" & produto1.Nome != "vasio" & produto2.Nome != "vasio" & produto3.Nome != "vasio" & produto4.Nome != "vasio")
                             {
                                 Console.WriteLine("Não e Possivel adicionar mais produtos pois o carinho de compras ja esta cheio");
                                 break;
