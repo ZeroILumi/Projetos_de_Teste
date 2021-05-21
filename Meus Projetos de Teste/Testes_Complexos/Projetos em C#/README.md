@@ -8,5 +8,7 @@
 
 - ### _Projeto_de_uma_pilha_de_dados_
 
-- ### Carinho_de_Compras_Autor_ZeroILumi
+- ### Carinho_de_Compras_Autor_ZeroILumi Apha ver 0.1 usando struct
+
+- ### Carinho_de_Compras_Autor_ZeroILumi Apha ver 0.2 usando classes
 
