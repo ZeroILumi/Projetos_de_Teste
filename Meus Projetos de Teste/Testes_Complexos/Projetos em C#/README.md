@@ -12,3 +12,8 @@
 
 - ### Carinho_de_Compras_Autor_ZeroILumi Apha ver 0.2 usando classes
 
+- ### _Zero.Bank_
+
+- ### _Validador_e_Calculador_de_Media_Zero_
+
+
