@@ -16,4 +16,7 @@
 
 - ### _Validador_e_Calculador_de_Media_Zero_
 
+- ### _Zero.Series_
+
+  
 
