@@ -1,20 +1,2 @@
-# _Meus Projetos de Teste_ ​ :wolf:
-
-## _Index_
-
-## _Testes Simples_
-
-- ### _Livro de Receitas_:book:
-
-- ### _Zerando jogos a partir de algoritmos em pseudocódigo_ :video_game:
-
-- ### _Fluxogramas_ :page_facing_up:
-
-## _Testes Medianos_
-
-- ### _Pseudocódigos em Portugol_
-
-## Testes Complexos
-
-- ### _Projetos em C#_
+# Esse Repositorio foi Descontinuado, não escluido por registro e para não causar quebra de link sua nova versão e a Projetos_de_Teste_ver_0.0.1 no link: https://github.com/ZeroILumi/Projetos_de_Teste_ver_0.0.1
 
